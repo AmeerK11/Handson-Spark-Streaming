@@ -1,0 +1,3 @@
+trip_id,driver_id,distance_km,fare_amount,timestamp
+aa1f203d-e965-4015-84b5-3e01890a21e3,29,46.31,135.99,2026-06-11 15:17:26
+d7d41abf-1279-4d6b-b2ce-66cfff5cb6d8,63,30.76,14.1,2026-06-11 15:17:28
